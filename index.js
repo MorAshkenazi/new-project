@@ -1,1 +1,1 @@
-console.log("hello from VSCode!");
+let x = 7;
